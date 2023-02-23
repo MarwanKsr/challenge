@@ -1,0 +1,17 @@
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\bin\Debug\net6.0\Enoca.Data.deps.json
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\bin\Debug\net6.0\Enoca.Data.dll
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\bin\Debug\net6.0\Enoca.Data.pdb
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\bin\Debug\net6.0\Enoca.Core.dll
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\bin\Debug\net6.0\Enoca.Core.pdb
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.csproj.AssemblyReference.cache
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.AssemblyInfoInputs.cache
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.AssemblyInfo.cs
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.csproj.CoreCompileInputs.cache
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.csproj.CopyComplete
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.dll
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\refint\Enoca.Data.dll
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.pdb
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\ref\Enoca.Data.dll
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\bin\Debug\net6.0\Enoca.Data.runtimeconfig.json
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Data\obj\Debug\net6.0\Enoca.Data.genruntimeconfig.cache

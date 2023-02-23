@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1U5trK4/u6FrZUUUA6+O6DyO7j9MMhqL6MJu31kujg0esVzGIic6uJwdTlmDX2zQycKGTwyb6TEUVC6o5cTQFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Core\\Enoca.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Casper TR\\.nuget\\packages\\ardalis.guardclauses\\4.0.1\\ardalis.guardclauses.4.0.1.nupkg.sha512",
+    "C:\\Users\\Casper TR\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

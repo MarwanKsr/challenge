@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UpYv3BlNlrkkKuS2cJIUX0UxNMqj1bdKaf0vWvHuXsw=",
+  "Source": "Enoca.Api",
+  "BasePath": "_content/Enoca.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

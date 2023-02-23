@@ -1,0 +1,17 @@
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\bin\Debug\net6.0\Enoca.Core.deps.json
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\bin\Debug\net6.0\Enoca.Core.dll
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\bin\Debug\net6.0\Enoca.Core.pdb
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.csproj.AssemblyReference.cache
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.Resources._Common.resources
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.Resources._Company.resources
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.Resources._Order.resources
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.Resources._Product.resources
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.csproj.GenerateResource.cache
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.AssemblyInfoInputs.cache
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.AssemblyInfo.cs
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.csproj.CoreCompileInputs.cache
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.dll
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\refint\Enoca.Core.dll
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\Enoca.Core.pdb
+C:\Users\Casper TR\source\repos\Enoca.Challenge.Project\Enoca.Core\obj\Debug\net6.0\ref\Enoca.Core.dll

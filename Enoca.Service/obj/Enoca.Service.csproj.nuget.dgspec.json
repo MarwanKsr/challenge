@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Service\\Enoca.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Core\\Enoca.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Core\\Enoca.Core.csproj",
+        "projectName": "Enoca.Core",
+        "projectPath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Core\\Enoca.Core.csproj",
+        "packagesPath": "C:\\Users\\Casper TR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper TR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Data\\Enoca.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Data\\Enoca.Data.csproj",
+        "projectName": "Enoca.Data",
+        "projectPath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Data\\Enoca.Data.csproj",
+        "packagesPath": "C:\\Users\\Casper TR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper TR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Core\\Enoca.Core.csproj": {
+                "projectPath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Core\\Enoca.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Service\\Enoca.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Service\\Enoca.Service.csproj",
+        "projectName": "Enoca.Service",
+        "projectPath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Service\\Enoca.Service.csproj",
+        "packagesPath": "C:\\Users\\Casper TR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper TR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Data\\Enoca.Data.csproj": {
+                "projectPath": "C:\\Users\\Casper TR\\source\\repos\\Enoca.Challenge.Project\\Enoca.Data\\Enoca.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
