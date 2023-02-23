@@ -83,23 +83,5 @@ namespace Enoca.Service.Products
 
             return new();
         }
-
-        public async Task<CommandResult> DecreaseStockById(long id)
-        {
-            var product = await GetProduct(id);
-            if (product == null)
-            {
-                return new(false, _Product.Product_Exception_EntityNotFound);
-            }
-            product.DecreaseStockNumber();
-            var affRows = await _repository.ModifyAndSaveAsync(product);
-
-            if (affRows <= 0)
-            {
-                return new(false, _Common.UpdateGeneralError);
-            }
-
-            return new();
-        }
     }
 }

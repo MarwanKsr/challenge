@@ -26,13 +26,6 @@ namespace Enoca.Service.Products
         Task<CommandResult> UpdateAsync(long id, string productName, long companyId, int stock, long price);
 
         /// <summary>
-        /// decrease stock number of product
-        /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
-        Task<CommandResult> DecreaseStockById(long id);
-
-        /// <summary>
         /// Remove product by id
         /// </summary>
         /// <param name="id"></param>
